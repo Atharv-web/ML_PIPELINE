@@ -1,4 +1,4 @@
-# ML_PIPELINE# SAGE: Smart Analytics and Guidance Engine
+# SAGE: Smart Analytics and Guidance Engine
 
 SAGE is an interactive Streamlit-based application designed to simplify machine learning tasks. It provides a user-friendly interface for exploratory data analysis (EDA), automatic machine learning (AutoML), and clustering tasks. The tool leverages libraries such as `TPOT`, `ydata-profiling`, and `scikit-learn` to automate the creation of optimized pipelines.
 
