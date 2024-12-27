@@ -27,30 +27,10 @@ SAGE is an interactive Streamlit-based application designed to simplify machine 
 
 ---
 
-## Installation
-
 ### Prerequisites
 
 - Python 3.8 or higher
 - Recommended: A virtual environment to manage dependencies.
-
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
-   cd <repository_folder>
-   ```
-
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the application:
-   ```bash
-   streamlit run app.py
-   ```
 
 ---
 
